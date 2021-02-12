@@ -17,4 +17,4 @@ status](https://img.shields.io/github/workflow/status/dynastyprocess/ffscrapr/Te
 <!-- badges: end -->
 
 
-Cached test files for ffscrapr, an R Client for Fantasy Football APIs. Please see https://github.com/dynastyprocess/ffscrapr for more information.
+Cached test files for ffscrapr, an R API Client for Fantasy Football Platforms. Please see https://github.com/dynastyprocess/ffscrapr for more information.
