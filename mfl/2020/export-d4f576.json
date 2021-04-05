@@ -8,6 +8,7 @@
         "endWeek": "17",
         "maxWaiverRounds": "4",
         "lockout": "No",
+        "defaultTradeExpirationDays": "7",
         "nflPoolStartWeek": "1",
         "auctionStartAmount": "1000",
         "victoryPointsTie": "0.5",
