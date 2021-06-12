@@ -1,0 +1,1107 @@
+{
+    "divisions": [
+        {
+            "id": 606681,
+            "name": "JDL North",
+            "teams": [
+                {
+                    "id": 1371776,
+                    "name": "Winter Hill Black Shamrocks",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1371776_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 1,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 4,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 12,
+                    "owners": [
+                        {
+                            "id": 894210,
+                            "displayName": "Mitchw124",
+                            "lastSeen": "1620318329000",
+                            "initials": "M",
+                            "lastSeenIso": "2021-05-06T16:25:29Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5
+                    },
+                    "initials": "WH"
+                },
+                {
+                    "id": 1373973,
+                    "name": "Red River Land Thunder",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373973_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 2,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 11,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 6,
+                    "owners": [
+                        {
+                            "id": 1148208,
+                            "displayName": "Ldub32",
+                            "lastSeen": "1609120062000",
+                            "initials": "L",
+                            "lastSeenIso": "2020-12-28T01:47:42Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5,
+                        "messagesUnread": 1
+                    },
+                    "initials": "RR"
+                },
+                {
+                    "id": 1373501,
+                    "name": "Midgard Gallows",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373501_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 3,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 12,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 5,
+                    "owners": [
+                        {
+                            "id": 1031700,
+                            "displayName": "Darry",
+                            "lastSeen": "1609216471000",
+                            "initials": "D",
+                            "lastSeenIso": "2020-12-29T04:34:31Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5,
+                        "messagesUnread": 74
+                    },
+                    "initials": "MG"
+                },
+                {
+                    "id": 1373991,
+                    "name": "Top City Terrors",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373991_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 4,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 16,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 1,
+                    "owners": [
+                        {
+                            "id": 1032237,
+                            "displayName": "Sirhurst",
+                            "lastSeen": "1609886499000",
+                            "initials": "S",
+                            "lastSeenIso": "2021-01-05T22:41:39Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5
+                    },
+                    "initials": "TC"
+                }
+            ]
+        },
+        {
+            "id": 606682,
+            "name": "JDL East",
+            "teams": [
+                {
+                    "id": 1374255,
+                    "name": "Mushroom City Karts",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1374255_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 1,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 3,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 13,
+                    "owners": [
+                        {
+                            "id": 749720,
+                            "displayName": "Diabetes9099",
+                            "lastSeen": "1610068725000",
+                            "initials": "D",
+                            "lastSeenIso": "2021-01-08T01:18:45Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5
+                    },
+                    "initials": "MC"
+                },
+                {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 2,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 5,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 15,
+                    "owners": [
+                        {
+                            "id": 749239,
+                            "displayName": "syd12nyjets",
+                            "lastSeen": "1623283140000",
+                            "initials": "S",
+                            "lastSeenIso": "2021-06-09T23:59:00Z"
+                        }
+                    ],
+                    "initials": "WD"
+                },
+                {
+                    "id": 1373480,
+                    "name": "Goldenrod City Nightmares",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373480_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 3,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 10,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 7,
+                    "owners": [
+                        {
+                            "id": 752341,
+                            "displayName": "DieNastyyY",
+                            "lastSeen": "1621263225000",
+                            "initials": "D",
+                            "lastSeenIso": "2021-05-17T14:53:45Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5,
+                        "messagesUnread": 3
+                    },
+                    "initials": "GC"
+                },
+                {
+                    "id": 1374252,
+                    "name": "Central City Crusaders",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1374252_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 4,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 13,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 4,
+                    "owners": [
+                        {
+                            "id": 751687,
+                            "displayName": "noelboynum2",
+                            "avatarUrl": "https://s3.amazonaws.com/fleaflicker/u751687_200x200.jpg",
+                            "lastSeen": "1609281094000",
+                            "initials": "N",
+                            "lastSeenIso": "2020-12-29T22:31:34Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5,
+                        "messagesUnread": 33
+                    },
+                    "initials": "CC"
+                }
+            ]
+        },
+        {
+            "id": 606683,
+            "name": "JDL South",
+            "teams": [
+                {
+                    "id": 1373970,
+                    "name": "Bamenda Herd",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373970_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 1,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 2,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 14,
+                    "owners": [
+                        {
+                            "id": 1032089,
+                            "displayName": "greaterbob91",
+                            "lastSeen": "1609428815000",
+                            "initials": "G",
+                            "lastSeenIso": "2020-12-31T15:33:35Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5
+                    },
+                    "initials": "BH"
+                },
+                {
+                    "id": 1374271,
+                    "name": "Clutch City Ballers",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1374271_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 2,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 7,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 10,
+                    "newItemCounts": {
+                        "activityUnread": 2
+                    },
+                    "initials": "CC"
+                },
+                {
+                    "id": 1374315,
+                    "name": "Shanghai Communists",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 3,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 14,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 3,
+                    "owners": [
+                        {
+                            "id": 1032619,
+                            "displayName": "CommieMaos",
+                            "lastSeen": "1613623616000",
+                            "initials": "C",
+                            "lastSeenIso": "2021-02-18T04:46:56Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5,
+                        "messagesUnread": 56
+                    },
+                    "initials": "SC"
+                },
+                {
+                    "id": 1373993,
+                    "name": "Boomtown Sly Foxes",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373993_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 4,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 15,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 2,
+                    "owners": [
+                        {
+                            "id": 1142313,
+                            "displayName": "Foxtrot_267",
+                            "avatarUrl": "https://s3.amazonaws.com/fleaflicker/u1142313_200x200.jpg",
+                            "lastSeen": "1617885859000",
+                            "initials": "F",
+                            "lastSeenIso": "2021-04-08T12:44:19Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5
+                    },
+                    "initials": "BS"
+                }
+            ]
+        },
+        {
+            "id": 606684,
+            "name": "JDL West",
+            "teams": [
+                {
+                    "id": 1373393,
+                    "name": "Philadelphia Fire",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373393_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 1,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 1,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 16,
+                    "newItemCounts": {
+                        "activityUnread": 4
+                    },
+                    "initials": "PF"
+                },
+                {
+                    "id": 1373535,
+                    "name": "Winterthur Angry Ducks",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373535_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 2,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 8,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 9,
+                    "newItemCounts": {
+                        "activityUnread": 4,
+                        "messagesUnread": 73
+                    },
+                    "initials": "WA"
+                },
+                {
+                    "id": 1373883,
+                    "name": "Manitoba Marmots",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 3,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 6,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 11,
+                    "owners": [
+                        {
+                            "id": 1000915,
+                            "displayName": "Fonduchicken12",
+                            "lastSeen": "1621220517000",
+                            "initials": "F",
+                            "lastSeenIso": "2021-05-17T03:01:57Z"
+                        }
+                    ],
+                    "newItemCounts": {
+                        "activityUnread": 5,
+                        "messagesUnread": 1
+                    },
+                    "initials": "MM"
+                },
+                {
+                    "id": 1373988,
+                    "name": "Springfield Isotopes",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373988_0_150x150.jpg",
+                    "recordOverall": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "formatted": "0-0"
+                    },
+                    "recordDivision": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 4,
+                        "formatted": "0-0"
+                    },
+                    "recordPostseason": {
+                        "winPercentage": {
+                            "formatted": ".000"
+                        },
+                        "rank": 9,
+                        "formatted": "0-0"
+                    },
+                    "pointsFor": {
+                        "formatted": "0"
+                    },
+                    "pointsAgainst": {
+                        "formatted": "0"
+                    },
+                    "streak": {
+                        "formatted": "-"
+                    },
+                    "waiverAcquisitionBudget": {
+                        "value": 100.0,
+                        "formatted": "$100"
+                    },
+                    "draftPosition": 8,
+                    "newItemCounts": {
+                        "activityUnread": 4,
+                        "messagesUnread": 1
+                    },
+                    "initials": "SI"
+                }
+            ]
+        }
+    ],
+    "season": 2021,
+    "league": {
+        "id": 206154,
+        "name": "Jackpot Dynasty League",
+        "logoUrl": "https://s3.amazonaws.com/fleaflicker/l206154_0_150x150.jpg",
+        "activeForCurrentSeason": true,
+        "membershipType": "CREATING_COMMISH",
+        "rosterRequirements": {
+            "positions": [
+                {
+                    "label": "QB",
+                    "group": "START",
+                    "eligibility": [
+                        "QB"
+                    ],
+                    "min": 1,
+                    "max": 3,
+                    "start": 1,
+                    "colors": [
+                        "DRAFT_BOARD_RED"
+                    ]
+                },
+                {
+                    "label": "RB",
+                    "group": "START",
+                    "eligibility": [
+                        "RB"
+                    ],
+                    "min": 2,
+                    "max": 15,
+                    "start": 2,
+                    "colors": [
+                        "DRAFT_BOARD_GREEN"
+                    ]
+                },
+                {
+                    "label": "WR",
+                    "group": "START",
+                    "eligibility": [
+                        "WR"
+                    ],
+                    "min": 2,
+                    "max": 15,
+                    "start": 2,
+                    "colors": [
+                        "DRAFT_BOARD_BLUE"
+                    ]
+                },
+                {
+                    "label": "TE",
+                    "group": "START",
+                    "eligibility": [
+                        "TE"
+                    ],
+                    "min": 1,
+                    "max": 15,
+                    "start": 1,
+                    "colors": [
+                        "DRAFT_BOARD_YELLOW"
+                    ]
+                },
+                {
+                    "label": "RB/WR/TE",
+                    "group": "START",
+                    "eligibility": [
+                        "RB",
+                        "WR",
+                        "TE"
+                    ],
+                    "start": 1,
+                    "colors": [
+                        "DRAFT_BOARD_GREEN",
+                        "DRAFT_BOARD_BLUE",
+                        "DRAFT_BOARD_YELLOW"
+                    ]
+                },
+                {
+                    "label": "K",
+                    "group": "START",
+                    "eligibility": [
+                        "K"
+                    ],
+                    "min": 1,
+                    "max": 2,
+                    "start": 1,
+                    "colors": [
+                        "DRAFT_BOARD_GRAY"
+                    ]
+                },
+                {
+                    "label": "CB",
+                    "group": "START",
+                    "eligibility": [
+                        "CB"
+                    ],
+                    "max": 15,
+                    "colors": [
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "S",
+                    "group": "START",
+                    "eligibility": [
+                        "S"
+                    ],
+                    "max": 15,
+                    "colors": [
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "DB",
+                    "group": "START",
+                    "eligibility": [
+                        "CB",
+                        "S"
+                    ],
+                    "start": 2,
+                    "colors": [
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "EDR",
+                    "group": "START",
+                    "eligibility": [
+                        "EDR"
+                    ],
+                    "max": 15,
+                    "colors": [
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "IL",
+                    "group": "START",
+                    "eligibility": [
+                        "IL"
+                    ],
+                    "max": 15,
+                    "colors": [
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "EDR/IL",
+                    "group": "START",
+                    "eligibility": [
+                        "EDR",
+                        "IL"
+                    ],
+                    "start": 2,
+                    "colors": [
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "LB",
+                    "group": "START",
+                    "eligibility": [
+                        "LB"
+                    ],
+                    "min": 2,
+                    "max": 15,
+                    "start": 2,
+                    "colors": [
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "DB/EDR/IL/LB",
+                    "group": "START",
+                    "eligibility": [
+                        "CB",
+                        "S",
+                        "EDR",
+                        "IL",
+                        "LB"
+                    ],
+                    "start": 2,
+                    "colors": [
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "IR",
+                    "group": "INJURED",
+                    "eligibility": [
+                        "QB",
+                        "RB",
+                        "WR",
+                        "TE",
+                        "K",
+                        "P",
+                        "D/ST",
+                        "CB",
+                        "S",
+                        "EDR",
+                        "DE",
+                        "IL",
+                        "DT",
+                        "LB",
+                        "LB"
+                    ],
+                    "start": 25,
+                    "colors": [
+                        "DRAFT_BOARD_GREEN",
+                        "DRAFT_BOARD_BLUE",
+                        "DRAFT_BOARD_YELLOW",
+                        "DRAFT_BOARD_RED",
+                        "DRAFT_BOARD_GRAY",
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "TAXI",
+                    "group": "TAXI",
+                    "eligibility": [
+                        "QB",
+                        "RB",
+                        "WR",
+                        "TE",
+                        "K",
+                        "P",
+                        "D/ST",
+                        "CB",
+                        "S",
+                        "EDR",
+                        "DE",
+                        "IL",
+                        "DT",
+                        "LB",
+                        "LB"
+                    ],
+                    "start": 3,
+                    "colors": [
+                        "DRAFT_BOARD_GREEN",
+                        "DRAFT_BOARD_BLUE",
+                        "DRAFT_BOARD_YELLOW",
+                        "DRAFT_BOARD_RED",
+                        "DRAFT_BOARD_GRAY",
+                        "DRAFT_BOARD_PURPLE"
+                    ]
+                },
+                {
+                    "label": "BN",
+                    "max": 24
+                }
+            ],
+            "rosterSize": 40,
+            "starterCount": 16,
+            "benchCount": 24,
+            "reserveCount": 28,
+            "eligibility": [
+                "QB",
+                "RB",
+                "WR",
+                "TE",
+                "K",
+                "CB",
+                "S",
+                "EDR",
+                "IL",
+                "LB"
+            ]
+        },
+        "waiverType": "BLIND_BID",
+        "maxKeepers": 50,
+        "defaultWaiverBudget": 100,
+        "size": 16,
+        "capacity": 16,
+        "initials": "JD",
+        "description": "16-Team 50-Keeper",
+        "chatChannel": "/chats/NFL/leagues/206154/all",
+        "draftSecondsPerSelection": 90,
+        "draftSnakeAt": -1
+    }
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "type": "linear",
+        "status": "complete",
+        "start_time": 1594826628202,
+        "sport": "nfl",
+        "settings": {
+            "teams": 12,
+            "slots_wr": 3,
+            "slots_te": 1,
+            "slots_rb": 2,
+            "slots_qb": 1,
+            "slots_flex": 2,
+            "slots_bn": 26,
+            "rounds": 4,
+            "reversal_round": 0,
+            "player_type": 1,
+            "pick_timer": 86400,
+            "cpu_autopick": 1,
+            "alpha_sort": 0
+        },
+        "season_type": "regular",
+        "season": "2020",
+        "metadata": {
+            "slot_name_5": "azrael lh",
+            "slot_name_2": "eido",
+            "slot_name_11": "waco",
+            "scoring_type": "dynasty",
+            "name": "DLP Dynasty League",
+            "description": ""
+        },
+        "league_id": "521379020332068864",
+        "last_picked": 1596070856685,
+        "last_message_time": 1596070857319,
+        "last_message_id": "594367890925301760",
+        "draft_order": {
+            "589594433561858048": 4,
+            "507457165422039040": 1,
+            "467329259925401600": 10,
+            "466857724680859648": 5,
+            "466527109116850176": 11,
+            "464935605336272896": 3,
+            "464498960719933440": 7,
+            "464123755250053120": 12,
+            "464108705281994752": 9,
+            "460930515327774720": 6,
+            "459230175830208512": 2,
+            "202892038360801280": 8
+        },
+        "draft_id": "521379020332068865",
+        "creators": [
+            "202892038360801280"
+        ],
+        "created": 1578668954501
+    }
+]

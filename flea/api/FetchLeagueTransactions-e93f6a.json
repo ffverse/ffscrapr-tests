@@ -1,0 +1,1744 @@
+{
+    "items": [
+        {
+            "timeEpochMilli": "1526359046000",
+            "transaction": {
+                "type": "TRANSACTION_DRAFT",
+                "player": {
+                    "proPlayer": {
+                        "id": 12904,
+                        "nameFull": "David Njoku",
+                        "nameShort": "D. Njoku",
+                        "proTeamAbbreviation": "CLE",
+                        "position": "TE",
+                        "headshotUrl": "https://d26bvpybnxg29h.cloudfront.net/nfl/12904.png",
+                        "nflByeWeek": 13,
+                        "nameFirst": "David",
+                        "nameLast": "Njoku",
+                        "proTeam": {
+                            "abbreviation": "CLE",
+                            "location": "Cleveland",
+                            "name": "Browns"
+                        },
+                        "positionEligibility": [
+                            "TE"
+                        ]
+                    },
+                    "requestedGames": [
+                        {
+                            "game": {
+                                "id": 6441,
+                                "away": {
+                                    "abbreviation": "CLE",
+                                    "location": "Cleveland",
+                                    "name": "Browns"
+                                },
+                                "home": {
+                                    "abbreviation": "KC",
+                                    "location": "Kansas City",
+                                    "name": "Chiefs"
+                                },
+                                "startTimeEpochMilli": "1631478300000",
+                                "period": {
+                                    "ordinal": 1,
+                                    "startEpochMilli": "1631008800000"
+                                }
+                            },
+                            "stats": [
+                                {
+                                    "category": {
+                                        "id": 175,
+                                        "abbreviation": "Rec",
+                                        "nameSingular": "Target % Caught",
+                                        "namePlural": "Target % Caught"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 42,
+                                        "abbreviation": "Yd",
+                                        "nameSingular": "Receiving Yard",
+                                        "namePlural": "Receiving Yards"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 26,
+                                        "abbreviation": "Fum",
+                                        "nameSingular": "Fumble",
+                                        "namePlural": "Fumbles",
+                                        "lowerIsBetter": true
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 29,
+                                        "abbreviation": "TD",
+                                        "nameSingular": "Offensive + Special Teams TD",
+                                        "namePlural": "Offensive + Special Teams TDs"
+                                    }
+                                }
+                            ],
+                            "period": {
+                                "ordinal": 1,
+                                "startEpochMilli": "1631008800000"
+                            },
+                            "ranks": {
+                                "position": "TE",
+                                "categories": [
+                                    {
+                                        "category": {
+                                            "id": 42,
+                                            "abbreviation": "Yd",
+                                            "nameSingular": "Receiving Yard",
+                                            "namePlural": "Receiving Yards"
+                                        },
+                                        "rank": {
+                                            "rank": 29,
+                                            "mean": {
+                                                "value": 59.9375,
+                                                "formatted": "59.9"
+                                            },
+                                            "rating": "RATING_VERY_GOOD"
+                                        }
+                                    },
+                                    {
+                                        "category": {
+                                            "id": 29,
+                                            "abbreviation": "TD",
+                                            "nameSingular": "Offensive + Special Teams TD",
+                                            "namePlural": "Offensive + Special Teams TDs"
+                                        },
+                                        "rank": {
+                                            "rank": 21,
+                                            "mean": {
+                                                "value": 0.5625,
+                                                "formatted": "0.6"
+                                            },
+                                            "rating": "RATING_GOOD",
+                                            "isRankTied": true
+                                        }
+                                    }
+                                ],
+                                "defaultPoints": {
+                                    "rank": 22,
+                                    "mean": {
+                                        "value": 7.18125,
+                                        "formatted": "7.2"
+                                    },
+                                    "rating": "RATING_GOOD"
+                                }
+                            }
+                        }
+                    ],
+                    "viewingActualStats": [
+                        {
+                            "category": {
+                                "id": 175,
+                                "abbreviation": "Rec",
+                                "nameSingular": "Target % Caught",
+                                "namePlural": "Target % Caught"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 42,
+                                "abbreviation": "Yd",
+                                "nameSingular": "Receiving Yard",
+                                "namePlural": "Receiving Yards"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 26,
+                                "abbreviation": "Fum",
+                                "nameSingular": "Fumble",
+                                "namePlural": "Fumbles",
+                                "lowerIsBetter": true
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 29,
+                                "abbreviation": "TD",
+                                "nameSingular": "Offensive + Special Teams TD",
+                                "namePlural": "Offensive + Special Teams TDs"
+                            }
+                        }
+                    ],
+                    "transactionStatus": {
+                        "locked": {
+
+                        },
+                        "isLineupStatusLocked": true
+                    },
+                    "requestedGamesPeriod": {
+                        "ordinal": 1,
+                        "startEpochMilli": "1631008800000"
+                    },
+                    "viewingFormat": "TOTAL",
+                    "viewingRange": {
+                        "low": -1,
+                        "high": -2
+                    },
+                    "owner": {
+                        "id": 1373475,
+                        "name": "Winterfell Dire Wolves",
+                        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                        "initials": "WD"
+                    },
+                    "displayGroup": "RECEIVER",
+                    "rankDraft": {
+                        "ordinal": 474,
+                        "positions": [
+                            {
+                                "position": {
+                                    "label": "TE",
+                                    "group": "START",
+                                    "eligibility": [
+                                        "TE"
+                                    ],
+                                    "colors": [
+                                        "DRAFT_BOARD_YELLOW"
+                                    ]
+                                },
+                                "ordinal": 40,
+                                "formatted": "TE40",
+                                "rating": "RATING_VERY_BAD"
+                            }
+                        ],
+                        "season": 2021
+                    },
+                    "lastX": [
+                        {
+                            "duration": 1
+                        },
+                        {
+                            "duration": 3
+                        },
+                        {
+                            "duration": 5
+                        }
+                    ],
+                    "isKeeper": true
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "draftedAtSlot": {
+                    "round": 7,
+                    "slot": 11,
+                    "overall": 107
+                }
+            }
+        },
+        {
+            "timeEpochMilli": "1526261221000",
+            "transaction": {
+                "type": "TRANSACTION_DRAFT",
+                "player": {
+                    "proPlayer": {
+                        "id": 13111,
+                        "nameFull": "Aaron Jones",
+                        "nameShort": "A. Jones",
+                        "proTeamAbbreviation": "GB",
+                        "position": "RB",
+                        "headshotUrl": "https://d26bvpybnxg29h.cloudfront.net/nfl/13111.png",
+                        "nflByeWeek": 13,
+                        "nameFirst": "Aaron",
+                        "nameLast": "Jones",
+                        "hasLockedPremiumContent": true,
+                        "proTeam": {
+                            "abbreviation": "GB",
+                            "location": "Green Bay",
+                            "name": "Packers"
+                        },
+                        "positionEligibility": [
+                            "RB"
+                        ]
+                    },
+                    "requestedGames": [
+                        {
+                            "game": {
+                                "id": 6442,
+                                "away": {
+                                    "abbreviation": "GB",
+                                    "location": "Green Bay",
+                                    "name": "Packers"
+                                },
+                                "home": {
+                                    "abbreviation": "NO",
+                                    "location": "New Orleans",
+                                    "name": "Saints"
+                                },
+                                "startTimeEpochMilli": "1631478300000",
+                                "period": {
+                                    "ordinal": 1,
+                                    "startEpochMilli": "1631008800000"
+                                }
+                            },
+                            "stats": [
+                                {
+                                    "category": {
+                                        "id": 22,
+                                        "abbreviation": "Yd",
+                                        "nameSingular": "Rushing Yard",
+                                        "namePlural": "Rushing Yards"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 175,
+                                        "abbreviation": "Rec",
+                                        "nameSingular": "Target % Caught",
+                                        "namePlural": "Target % Caught"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 42,
+                                        "abbreviation": "Yd",
+                                        "nameSingular": "Receiving Yard",
+                                        "namePlural": "Receiving Yards"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 29,
+                                        "abbreviation": "TD",
+                                        "nameSingular": "Offensive + Special Teams TD",
+                                        "namePlural": "Offensive + Special Teams TDs"
+                                    }
+                                }
+                            ],
+                            "period": {
+                                "ordinal": 1,
+                                "startEpochMilli": "1631008800000"
+                            },
+                            "ranks": {
+                                "position": "RB",
+                                "categories": [
+                                    {
+                                        "category": {
+                                            "id": 28,
+                                            "abbreviation": "Yd",
+                                            "nameSingular": "Scrimmage Yard",
+                                            "namePlural": "Scrimmage Yards"
+                                        },
+                                        "rank": {
+                                            "rank": 1,
+                                            "mean": {
+                                                "value": 99.0625,
+                                                "formatted": "99.1"
+                                            },
+                                            "rating": "RATING_VERY_BAD"
+                                        }
+                                    },
+                                    {
+                                        "category": {
+                                            "id": 29,
+                                            "abbreviation": "TD",
+                                            "nameSingular": "Offensive + Special Teams TD",
+                                            "namePlural": "Offensive + Special Teams TDs"
+                                        },
+                                        "rank": {
+                                            "rank": 2,
+                                            "mean": {
+                                                "value": 0.6875,
+                                                "formatted": "0.7"
+                                            },
+                                            "rating": "RATING_BAD",
+                                            "isRankTied": true
+                                        }
+                                    }
+                                ],
+                                "defaultPoints": {
+                                    "rank": 2,
+                                    "mean": {
+                                        "value": 9.693749,
+                                        "formatted": "9.7"
+                                    },
+                                    "rating": "RATING_BAD"
+                                }
+                            }
+                        }
+                    ],
+                    "viewingActualStats": [
+                        {
+                            "category": {
+                                "id": 22,
+                                "abbreviation": "Yd",
+                                "nameSingular": "Rushing Yard",
+                                "namePlural": "Rushing Yards"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 175,
+                                "abbreviation": "Rec",
+                                "nameSingular": "Target % Caught",
+                                "namePlural": "Target % Caught"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 42,
+                                "abbreviation": "Yd",
+                                "nameSingular": "Receiving Yard",
+                                "namePlural": "Receiving Yards"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 29,
+                                "abbreviation": "TD",
+                                "nameSingular": "Offensive + Special Teams TD",
+                                "namePlural": "Offensive + Special Teams TDs"
+                            }
+                        }
+                    ],
+                    "transactionStatus": {
+                        "locked": {
+
+                        },
+                        "isLineupStatusLocked": true
+                    },
+                    "requestedGamesPeriod": {
+                        "ordinal": 1,
+                        "startEpochMilli": "1631008800000"
+                    },
+                    "viewingFormat": "TOTAL",
+                    "viewingRange": {
+                        "low": -1,
+                        "high": -2
+                    },
+                    "owner": {
+                        "id": 1373475,
+                        "name": "Winterfell Dire Wolves",
+                        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                        "initials": "WD"
+                    },
+                    "displayGroup": "RUSHER",
+                    "rankDraft": {
+                        "ordinal": 10,
+                        "positions": [
+                            {
+                                "position": {
+                                    "label": "RB",
+                                    "group": "START",
+                                    "eligibility": [
+                                        "RB"
+                                    ],
+                                    "colors": [
+                                        "DRAFT_BOARD_GREEN"
+                                    ]
+                                },
+                                "ordinal": 9,
+                                "formatted": "RB9",
+                                "rating": "RATING_VERY_GOOD"
+                            }
+                        ],
+                        "season": 2021
+                    },
+                    "lastX": [
+                        {
+                            "duration": 1
+                        },
+                        {
+                            "duration": 3
+                        },
+                        {
+                            "duration": 5
+                        }
+                    ],
+                    "isKeeper": true
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "draftedAtSlot": {
+                    "round": 6,
+                    "slot": 13,
+                    "overall": 93
+                }
+            }
+        },
+        {
+            "timeEpochMilli": "1526170909000",
+            "transaction": {
+                "type": "TRANSACTION_DRAFT",
+                "player": {
+                    "proPlayer": {
+                        "id": 13795,
+                        "nameFull": "Courtland Sutton",
+                        "nameShort": "C. Sutton",
+                        "proTeamAbbreviation": "DEN",
+                        "position": "WR",
+                        "headshotUrl": "https://d26bvpybnxg29h.cloudfront.net/nfl/13795.png",
+                        "nflByeWeek": 11,
+                        "injury": {
+                            "typeAbbreviaition": "Q",
+                            "description": "Knee - ACL + MCL",
+                            "severity": "QUESTIONABLE",
+                            "typeFull": "Questionable"
+                        },
+                        "nameFirst": "Courtland",
+                        "nameLast": "Sutton",
+                        "hasLockedPremiumContent": true,
+                        "proTeam": {
+                            "abbreviation": "DEN",
+                            "location": "Denver",
+                            "name": "Broncos"
+                        },
+                        "positionEligibility": [
+                            "WR"
+                        ]
+                    },
+                    "requestedGames": [
+                        {
+                            "game": {
+                                "id": 6443,
+                                "away": {
+                                    "abbreviation": "DEN",
+                                    "location": "Denver",
+                                    "name": "Broncos"
+                                },
+                                "home": {
+                                    "abbreviation": "NYG",
+                                    "location": "New York",
+                                    "name": "Giants"
+                                },
+                                "startTimeEpochMilli": "1631478300000",
+                                "period": {
+                                    "ordinal": 1,
+                                    "startEpochMilli": "1631008800000"
+                                }
+                            },
+                            "stats": [
+                                {
+                                    "category": {
+                                        "id": 175,
+                                        "abbreviation": "Rec",
+                                        "nameSingular": "Target % Caught",
+                                        "namePlural": "Target % Caught"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 42,
+                                        "abbreviation": "Yd",
+                                        "nameSingular": "Receiving Yard",
+                                        "namePlural": "Receiving Yards"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 26,
+                                        "abbreviation": "Fum",
+                                        "nameSingular": "Fumble",
+                                        "namePlural": "Fumbles",
+                                        "lowerIsBetter": true
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 29,
+                                        "abbreviation": "TD",
+                                        "nameSingular": "Offensive + Special Teams TD",
+                                        "namePlural": "Offensive + Special Teams TDs"
+                                    }
+                                }
+                            ],
+                            "period": {
+                                "ordinal": 1,
+                                "startEpochMilli": "1631008800000"
+                            },
+                            "ranks": {
+                                "position": "WR",
+                                "categories": [
+                                    {
+                                        "category": {
+                                            "id": 42,
+                                            "abbreviation": "Yd",
+                                            "nameSingular": "Receiving Yard",
+                                            "namePlural": "Receiving Yards"
+                                        },
+                                        "rank": {
+                                            "rank": 12,
+                                            "mean": {
+                                                "value": 156.125,
+                                                "formatted": "156.1"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "category": {
+                                            "id": 29,
+                                            "abbreviation": "TD",
+                                            "nameSingular": "Offensive + Special Teams TD",
+                                            "namePlural": "Offensive + Special Teams TDs"
+                                        },
+                                        "rank": {
+                                            "rank": 9,
+                                            "mean": {
+                                                "value": 0.9375,
+                                                "formatted": "0.9"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "defaultPoints": {
+                                    "rank": 4,
+                                    "mean": {
+                                        "value": 8.60625,
+                                        "formatted": "8.6"
+                                    },
+                                    "rating": "RATING_BAD"
+                                }
+                            }
+                        }
+                    ],
+                    "viewingActualStats": [
+                        {
+                            "category": {
+                                "id": 175,
+                                "abbreviation": "Rec",
+                                "nameSingular": "Target % Caught",
+                                "namePlural": "Target % Caught"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 42,
+                                "abbreviation": "Yd",
+                                "nameSingular": "Receiving Yard",
+                                "namePlural": "Receiving Yards"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 26,
+                                "abbreviation": "Fum",
+                                "nameSingular": "Fumble",
+                                "namePlural": "Fumbles",
+                                "lowerIsBetter": true
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 29,
+                                "abbreviation": "TD",
+                                "nameSingular": "Offensive + Special Teams TD",
+                                "namePlural": "Offensive + Special Teams TDs"
+                            }
+                        }
+                    ],
+                    "transactionStatus": {
+                        "locked": {
+
+                        },
+                        "isLineupStatusLocked": true
+                    },
+                    "requestedGamesPeriod": {
+                        "ordinal": 1,
+                        "startEpochMilli": "1631008800000"
+                    },
+                    "viewingFormat": "TOTAL",
+                    "viewingRange": {
+                        "low": -1,
+                        "high": -2
+                    },
+                    "owner": {
+                        "id": 1373991,
+                        "name": "Top City Terrors",
+                        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373991_0_150x150.jpg",
+                        "initials": "TC"
+                    },
+                    "displayGroup": "RECEIVER",
+                    "rankDraft": {
+                        "ordinal": 58,
+                        "positions": [
+                            {
+                                "position": {
+                                    "label": "WR",
+                                    "group": "START",
+                                    "eligibility": [
+                                        "WR"
+                                    ],
+                                    "colors": [
+                                        "DRAFT_BOARD_BLUE"
+                                    ]
+                                },
+                                "ordinal": 26,
+                                "formatted": "WR26"
+                            }
+                        ],
+                        "season": 2021
+                    },
+                    "lastX": [
+                        {
+                            "duration": 1
+                        },
+                        {
+                            "duration": 3
+                        },
+                        {
+                            "duration": 5
+                        }
+                    ]
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "draftedAtSlot": {
+                    "round": 6,
+                    "slot": 6,
+                    "overall": 86
+                }
+            }
+        },
+        {
+            "timeEpochMilli": "1525911460000",
+            "transaction": {
+                "type": "TRANSACTION_DRAFT",
+                "player": {
+                    "proPlayer": {
+                        "id": 10256,
+                        "nameFull": "Sammy Watkins",
+                        "nameShort": "S. Watkins",
+                        "proTeamAbbreviation": "BAL",
+                        "position": "WR",
+                        "headshotUrl": "https://d26bvpybnxg29h.cloudfront.net/nfl/10256.png",
+                        "nflByeWeek": 8,
+                        "nameFirst": "Sammy",
+                        "nameLast": "Watkins",
+                        "hasLockedPremiumContent": true,
+                        "proTeam": {
+                            "abbreviation": "BAL",
+                            "location": "Baltimore",
+                            "name": "Ravens"
+                        },
+                        "positionEligibility": [
+                            "WR"
+                        ]
+                    },
+                    "requestedGames": [
+                        {
+                            "game": {
+                                "id": 6446,
+                                "away": {
+                                    "abbreviation": "BAL",
+                                    "location": "Baltimore",
+                                    "name": "Ravens"
+                                },
+                                "home": {
+                                    "abbreviation": "LV",
+                                    "location": "Las Vegas",
+                                    "name": "Raiders"
+                                },
+                                "startTimeEpochMilli": "1631578500000",
+                                "period": {
+                                    "ordinal": 1,
+                                    "startEpochMilli": "1631008800000"
+                                }
+                            },
+                            "stats": [
+                                {
+                                    "category": {
+                                        "id": 175,
+                                        "abbreviation": "Rec",
+                                        "nameSingular": "Target % Caught",
+                                        "namePlural": "Target % Caught"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 42,
+                                        "abbreviation": "Yd",
+                                        "nameSingular": "Receiving Yard",
+                                        "namePlural": "Receiving Yards"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 26,
+                                        "abbreviation": "Fum",
+                                        "nameSingular": "Fumble",
+                                        "namePlural": "Fumbles",
+                                        "lowerIsBetter": true
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 29,
+                                        "abbreviation": "TD",
+                                        "nameSingular": "Offensive + Special Teams TD",
+                                        "namePlural": "Offensive + Special Teams TDs"
+                                    }
+                                }
+                            ],
+                            "period": {
+                                "ordinal": 1,
+                                "startEpochMilli": "1631008800000"
+                            },
+                            "ranks": {
+                                "position": "WR",
+                                "categories": [
+                                    {
+                                        "category": {
+                                            "id": 42,
+                                            "abbreviation": "Yd",
+                                            "nameSingular": "Receiving Yard",
+                                            "namePlural": "Receiving Yards"
+                                        },
+                                        "rank": {
+                                            "rank": 25,
+                                            "mean": {
+                                                "value": 175.4375,
+                                                "formatted": "175.4"
+                                            },
+                                            "rating": "RATING_VERY_GOOD"
+                                        }
+                                    },
+                                    {
+                                        "category": {
+                                            "id": 29,
+                                            "abbreviation": "TD",
+                                            "nameSingular": "Offensive + Special Teams TD",
+                                            "namePlural": "Offensive + Special Teams TDs"
+                                        },
+                                        "rank": {
+                                            "rank": 22,
+                                            "mean": {
+                                                "value": 1.1875,
+                                                "formatted": "1.2"
+                                            },
+                                            "rating": "RATING_GOOD",
+                                            "isRankTied": true
+                                        }
+                                    }
+                                ],
+                                "defaultPoints": {
+                                    "rank": 17,
+                                    "mean": {
+                                        "value": 10.01875,
+                                        "formatted": "10"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "viewingActualStats": [
+                        {
+                            "category": {
+                                "id": 175,
+                                "abbreviation": "Rec",
+                                "nameSingular": "Target % Caught",
+                                "namePlural": "Target % Caught"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 42,
+                                "abbreviation": "Yd",
+                                "nameSingular": "Receiving Yard",
+                                "namePlural": "Receiving Yards"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 26,
+                                "abbreviation": "Fum",
+                                "nameSingular": "Fumble",
+                                "namePlural": "Fumbles",
+                                "lowerIsBetter": true
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 29,
+                                "abbreviation": "TD",
+                                "nameSingular": "Offensive + Special Teams TD",
+                                "namePlural": "Offensive + Special Teams TDs"
+                            }
+                        }
+                    ],
+                    "transactionStatus": {
+                        "locked": {
+
+                        },
+                        "isLineupStatusLocked": true
+                    },
+                    "requestedGamesPeriod": {
+                        "ordinal": 1,
+                        "startEpochMilli": "1631008800000"
+                    },
+                    "viewingFormat": "TOTAL",
+                    "viewingRange": {
+                        "low": -1,
+                        "high": -2
+                    },
+                    "owner": {
+                        "id": 1373535,
+                        "name": "Winterthur Angry Ducks",
+                        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373535_0_150x150.jpg",
+                        "initials": "WA"
+                    },
+                    "displayGroup": "RECEIVER",
+                    "rankDraft": {
+                        "ordinal": 274,
+                        "positions": [
+                            {
+                                "position": {
+                                    "label": "WR",
+                                    "group": "START",
+                                    "eligibility": [
+                                        "WR"
+                                    ],
+                                    "colors": [
+                                        "DRAFT_BOARD_BLUE"
+                                    ]
+                                },
+                                "ordinal": 79,
+                                "formatted": "WR79",
+                                "rating": "RATING_VERY_BAD"
+                            }
+                        ],
+                        "season": 2021
+                    },
+                    "lastX": [
+                        {
+                            "duration": 1
+                        },
+                        {
+                            "duration": 3
+                        },
+                        {
+                            "duration": 5
+                        }
+                    ],
+                    "isKeeper": true
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "draftedAtSlot": {
+                    "round": 5,
+                    "slot": 4,
+                    "overall": 68
+                }
+            }
+        },
+        {
+            "timeEpochMilli": "1525814983000",
+            "transaction": {
+                "type": "TRANSACTION_TRADE",
+                "draftPick": {
+                    "season": 2018,
+                    "round": 8
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "tradeId": 4004138
+            }
+        },
+        {
+            "timeEpochMilli": "1525814983000",
+            "transaction": {
+                "type": "TRANSACTION_TRADE",
+                "draftPick": {
+                    "season": 2018,
+                    "round": 6
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "tradeId": 4004138
+            }
+        },
+        {
+            "timeEpochMilli": "1525814983000",
+            "transaction": {
+                "type": "TRANSACTION_TRADE",
+                "draftPick": {
+                    "season": 2018,
+                    "round": 5
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "tradeId": 4004138
+            }
+        },
+        {
+            "timeEpochMilli": "1525814983000",
+            "transaction": {
+                "type": "TRANSACTION_TRADE",
+                "draftPick": {
+                    "season": 2018,
+                    "round": 5
+                },
+                "team": {
+                    "id": 1373991,
+                    "name": "Top City Terrors",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373991_0_150x150.jpg",
+                    "initials": "TC"
+                },
+                "tradeId": 4004138
+            }
+        },
+        {
+            "timeEpochMilli": "1525814983000",
+            "transaction": {
+                "type": "TRANSACTION_TRADE",
+                "draftPick": {
+                    "season": 2018,
+                    "round": 4
+                },
+                "team": {
+                    "id": 1373991,
+                    "name": "Top City Terrors",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373991_0_150x150.jpg",
+                    "initials": "TC"
+                },
+                "tradeId": 4004138
+            }
+        },
+        {
+            "timeEpochMilli": "1525790648000",
+            "transaction": {
+                "type": "TRANSACTION_DRAFT",
+                "player": {
+                    "proPlayer": {
+                        "id": 9376,
+                        "nameFull": "Zach Ertz",
+                        "nameShort": "Z. Ertz",
+                        "proTeamAbbreviation": "PHI",
+                        "position": "TE",
+                        "headshotUrl": "https://d26bvpybnxg29h.cloudfront.net/nfl/9376.png",
+                        "nflByeWeek": 14,
+                        "nameFirst": "Zach",
+                        "nameLast": "Ertz",
+                        "hasLockedPremiumContent": true,
+                        "proTeam": {
+                            "abbreviation": "PHI",
+                            "location": "Philadelphia",
+                            "name": "Eagles"
+                        },
+                        "positionEligibility": [
+                            "TE"
+                        ]
+                    },
+                    "requestedGames": [
+                        {
+                            "game": {
+                                "id": 6440,
+                                "away": {
+                                    "abbreviation": "PHI",
+                                    "location": "Philadelphia",
+                                    "name": "Eagles"
+                                },
+                                "home": {
+                                    "abbreviation": "ATL",
+                                    "location": "Atlanta",
+                                    "name": "Falcons"
+                                },
+                                "startTimeEpochMilli": "1631466000000",
+                                "period": {
+                                    "ordinal": 1,
+                                    "startEpochMilli": "1631008800000"
+                                }
+                            },
+                            "stats": [
+                                {
+                                    "category": {
+                                        "id": 175,
+                                        "abbreviation": "Rec",
+                                        "nameSingular": "Target % Caught",
+                                        "namePlural": "Target % Caught"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 42,
+                                        "abbreviation": "Yd",
+                                        "nameSingular": "Receiving Yard",
+                                        "namePlural": "Receiving Yards"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 26,
+                                        "abbreviation": "Fum",
+                                        "nameSingular": "Fumble",
+                                        "namePlural": "Fumbles",
+                                        "lowerIsBetter": true
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 29,
+                                        "abbreviation": "TD",
+                                        "nameSingular": "Offensive + Special Teams TD",
+                                        "namePlural": "Offensive + Special Teams TDs"
+                                    }
+                                }
+                            ],
+                            "period": {
+                                "ordinal": 1,
+                                "startEpochMilli": "1631008800000"
+                            },
+                            "ranks": {
+                                "position": "TE",
+                                "categories": [
+                                    {
+                                        "category": {
+                                            "id": 42,
+                                            "abbreviation": "Yd",
+                                            "nameSingular": "Receiving Yard",
+                                            "namePlural": "Receiving Yards"
+                                        },
+                                        "rank": {
+                                            "rank": 28,
+                                            "mean": {
+                                                "value": 59.75,
+                                                "formatted": "59.8"
+                                            },
+                                            "rating": "RATING_VERY_GOOD"
+                                        }
+                                    },
+                                    {
+                                        "category": {
+                                            "id": 29,
+                                            "abbreviation": "TD",
+                                            "nameSingular": "Offensive + Special Teams TD",
+                                            "namePlural": "Offensive + Special Teams TDs"
+                                        },
+                                        "rank": {
+                                            "rank": 26,
+                                            "mean": {
+                                                "value": 0.625,
+                                                "formatted": "0.6"
+                                            },
+                                            "rating": "RATING_VERY_GOOD",
+                                            "isRankTied": true
+                                        }
+                                    }
+                                ],
+                                "defaultPoints": {
+                                    "rank": 31,
+                                    "mean": {
+                                        "value": 8.49375,
+                                        "formatted": "8.5"
+                                    },
+                                    "rating": "RATING_VERY_GOOD"
+                                }
+                            }
+                        }
+                    ],
+                    "viewingActualStats": [
+                        {
+                            "category": {
+                                "id": 175,
+                                "abbreviation": "Rec",
+                                "nameSingular": "Target % Caught",
+                                "namePlural": "Target % Caught"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 42,
+                                "abbreviation": "Yd",
+                                "nameSingular": "Receiving Yard",
+                                "namePlural": "Receiving Yards"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 26,
+                                "abbreviation": "Fum",
+                                "nameSingular": "Fumble",
+                                "namePlural": "Fumbles",
+                                "lowerIsBetter": true
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 29,
+                                "abbreviation": "TD",
+                                "nameSingular": "Offensive + Special Teams TD",
+                                "namePlural": "Offensive + Special Teams TDs"
+                            }
+                        }
+                    ],
+                    "transactionStatus": {
+                        "locked": {
+
+                        },
+                        "isLineupStatusLocked": true
+                    },
+                    "requestedGamesPeriod": {
+                        "ordinal": 1,
+                        "startEpochMilli": "1631008800000"
+                    },
+                    "viewingFormat": "TOTAL",
+                    "viewingRange": {
+                        "low": -1,
+                        "high": -2
+                    },
+                    "owner": {
+                        "id": 1373993,
+                        "name": "Boomtown Sly Foxes",
+                        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373993_0_150x150.jpg",
+                        "initials": "BS"
+                    },
+                    "displayGroup": "RECEIVER",
+                    "rankDraft": {
+                        "ordinal": 220,
+                        "positions": [
+                            {
+                                "position": {
+                                    "label": "TE",
+                                    "group": "START",
+                                    "eligibility": [
+                                        "TE"
+                                    ],
+                                    "colors": [
+                                        "DRAFT_BOARD_YELLOW"
+                                    ]
+                                },
+                                "ordinal": 24,
+                                "formatted": "TE24",
+                                "rating": "RATING_VERY_BAD"
+                            }
+                        ],
+                        "season": 2021
+                    },
+                    "lastX": [
+                        {
+                            "duration": 1
+                        },
+                        {
+                            "duration": 3
+                        },
+                        {
+                            "duration": 5
+                        }
+                    ]
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "draftedAtSlot": {
+                    "round": 3,
+                    "slot": 11,
+                    "overall": 43
+                }
+            }
+        },
+        {
+            "timeEpochMilli": "1525651263000",
+            "transaction": {
+                "type": "TRANSACTION_DRAFT",
+                "player": {
+                    "proPlayer": {
+                        "id": 9360,
+                        "nameFull": "Travis Kelce",
+                        "nameShort": "T. Kelce",
+                        "proTeamAbbreviation": "KC",
+                        "position": "TE",
+                        "headshotUrl": "https://d26bvpybnxg29h.cloudfront.net/nfl/9360.png",
+                        "nflByeWeek": 12,
+                        "nameFirst": "Travis",
+                        "nameLast": "Kelce",
+                        "hasLockedPremiumContent": true,
+                        "proTeam": {
+                            "abbreviation": "KC",
+                            "location": "Kansas City",
+                            "name": "Chiefs"
+                        },
+                        "positionEligibility": [
+                            "TE"
+                        ]
+                    },
+                    "requestedGames": [
+                        {
+                            "game": {
+                                "id": 6441,
+                                "away": {
+                                    "abbreviation": "CLE",
+                                    "location": "Cleveland",
+                                    "name": "Browns"
+                                },
+                                "home": {
+                                    "abbreviation": "KC",
+                                    "location": "Kansas City",
+                                    "name": "Chiefs"
+                                },
+                                "startTimeEpochMilli": "1631478300000",
+                                "period": {
+                                    "ordinal": 1,
+                                    "startEpochMilli": "1631008800000"
+                                }
+                            },
+                            "stats": [
+                                {
+                                    "category": {
+                                        "id": 175,
+                                        "abbreviation": "Rec",
+                                        "nameSingular": "Target % Caught",
+                                        "namePlural": "Target % Caught"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 42,
+                                        "abbreviation": "Yd",
+                                        "nameSingular": "Receiving Yard",
+                                        "namePlural": "Receiving Yards"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 26,
+                                        "abbreviation": "Fum",
+                                        "nameSingular": "Fumble",
+                                        "namePlural": "Fumbles",
+                                        "lowerIsBetter": true
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 29,
+                                        "abbreviation": "TD",
+                                        "nameSingular": "Offensive + Special Teams TD",
+                                        "namePlural": "Offensive + Special Teams TDs"
+                                    }
+                                }
+                            ],
+                            "participant": "HOME",
+                            "period": {
+                                "ordinal": 1,
+                                "startEpochMilli": "1631008800000"
+                            },
+                            "ranks": {
+                                "position": "TE",
+                                "categories": [
+                                    {
+                                        "category": {
+                                            "id": 42,
+                                            "abbreviation": "Yd",
+                                            "nameSingular": "Receiving Yard",
+                                            "namePlural": "Receiving Yards"
+                                        },
+                                        "rank": {
+                                            "rank": 25,
+                                            "mean": {
+                                                "value": 56.6875,
+                                                "formatted": "56.7"
+                                            },
+                                            "rating": "RATING_VERY_GOOD"
+                                        }
+                                    },
+                                    {
+                                        "category": {
+                                            "id": 29,
+                                            "abbreviation": "TD",
+                                            "nameSingular": "Offensive + Special Teams TD",
+                                            "namePlural": "Offensive + Special Teams TDs"
+                                        },
+                                        "rank": {
+                                            "rank": 29,
+                                            "mean": {
+                                                "value": 0.6875,
+                                                "formatted": "0.7"
+                                            },
+                                            "rating": "RATING_VERY_GOOD"
+                                        }
+                                    }
+                                ],
+                                "defaultPoints": {
+                                    "rank": 28,
+                                    "mean": {
+                                        "value": 7.81875,
+                                        "formatted": "7.8"
+                                    },
+                                    "rating": "RATING_VERY_GOOD"
+                                }
+                            }
+                        }
+                    ],
+                    "viewingActualStats": [
+                        {
+                            "category": {
+                                "id": 175,
+                                "abbreviation": "Rec",
+                                "nameSingular": "Target % Caught",
+                                "namePlural": "Target % Caught"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 42,
+                                "abbreviation": "Yd",
+                                "nameSingular": "Receiving Yard",
+                                "namePlural": "Receiving Yards"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 26,
+                                "abbreviation": "Fum",
+                                "nameSingular": "Fumble",
+                                "namePlural": "Fumbles",
+                                "lowerIsBetter": true
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 29,
+                                "abbreviation": "TD",
+                                "nameSingular": "Offensive + Special Teams TD",
+                                "namePlural": "Offensive + Special Teams TDs"
+                            }
+                        }
+                    ],
+                    "transactionStatus": {
+                        "locked": {
+
+                        },
+                        "isLineupStatusLocked": true
+                    },
+                    "requestedGamesPeriod": {
+                        "ordinal": 1,
+                        "startEpochMilli": "1631008800000"
+                    },
+                    "viewingFormat": "TOTAL",
+                    "viewingRange": {
+                        "low": -1,
+                        "high": -2
+                    },
+                    "owner": {
+                        "id": 1373475,
+                        "name": "Winterfell Dire Wolves",
+                        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                        "initials": "WD"
+                    },
+                    "displayGroup": "RECEIVER",
+                    "rankDraft": {
+                        "ordinal": 14,
+                        "positions": [
+                            {
+                                "position": {
+                                    "label": "TE",
+                                    "group": "START",
+                                    "eligibility": [
+                                        "TE"
+                                    ],
+                                    "colors": [
+                                        "DRAFT_BOARD_YELLOW"
+                                    ]
+                                },
+                                "ordinal": 1,
+                                "formatted": "TE1",
+                                "rating": "RATING_VERY_GOOD"
+                            }
+                        ],
+                        "season": 2021
+                    },
+                    "lastX": [
+                        {
+                            "duration": 1
+                        },
+                        {
+                            "duration": 3
+                        },
+                        {
+                            "duration": 5
+                        }
+                    ],
+                    "isKeeper": true
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "draftedAtSlot": {
+                    "round": 2,
+                    "slot": 6,
+                    "overall": 22
+                }
+            }
+        },
+        {
+            "timeEpochMilli": "1525496904000",
+            "transaction": {
+                "type": "TRANSACTION_DRAFT",
+                "player": {
+                    "proPlayer": {
+                        "id": 6660,
+                        "nameFull": "Antonio Brown",
+                        "nameShort": "A. Brown",
+                        "proTeamAbbreviation": "TB",
+                        "position": "WR",
+                        "headshotUrl": "https://d26bvpybnxg29h.cloudfront.net/nfl/6660.png",
+                        "nflByeWeek": 9,
+                        "injury": {
+                            "typeAbbreviaition": "Q",
+                            "description": "Knee",
+                            "severity": "QUESTIONABLE",
+                            "typeFull": "Questionable"
+                        },
+                        "nameFirst": "Antonio",
+                        "nameLast": "Brown",
+                        "hasLockedPremiumContent": true,
+                        "proTeam": {
+                            "abbreviation": "TB",
+                            "location": "Tampa Bay",
+                            "name": "Buccaneers"
+                        },
+                        "positionEligibility": [
+                            "WR"
+                        ]
+                    },
+                    "requestedGames": [
+                        {
+                            "game": {
+                                "id": 6431,
+                                "away": {
+                                    "abbreviation": "DAL",
+                                    "location": "Dallas",
+                                    "name": "Cowboys"
+                                },
+                                "home": {
+                                    "abbreviation": "TB",
+                                    "location": "Tampa Bay",
+                                    "name": "Buccaneers"
+                                },
+                                "startTimeEpochMilli": "1631233200000",
+                                "period": {
+                                    "ordinal": 1,
+                                    "startEpochMilli": "1631008800000"
+                                }
+                            },
+                            "stats": [
+                                {
+                                    "category": {
+                                        "id": 175,
+                                        "abbreviation": "Rec",
+                                        "nameSingular": "Target % Caught",
+                                        "namePlural": "Target % Caught"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 42,
+                                        "abbreviation": "Yd",
+                                        "nameSingular": "Receiving Yard",
+                                        "namePlural": "Receiving Yards"
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 26,
+                                        "abbreviation": "Fum",
+                                        "nameSingular": "Fumble",
+                                        "namePlural": "Fumbles",
+                                        "lowerIsBetter": true
+                                    }
+                                },
+                                {
+                                    "category": {
+                                        "id": 29,
+                                        "abbreviation": "TD",
+                                        "nameSingular": "Offensive + Special Teams TD",
+                                        "namePlural": "Offensive + Special Teams TDs"
+                                    }
+                                }
+                            ],
+                            "participant": "HOME",
+                            "period": {
+                                "ordinal": 1,
+                                "startEpochMilli": "1631008800000"
+                            },
+                            "ranks": {
+                                "position": "WR",
+                                "categories": [
+                                    {
+                                        "category": {
+                                            "id": 42,
+                                            "abbreviation": "Yd",
+                                            "nameSingular": "Receiving Yard",
+                                            "namePlural": "Receiving Yards"
+                                        },
+                                        "rank": {
+                                            "rank": 24,
+                                            "mean": {
+                                                "value": 175.4375,
+                                                "formatted": "175.4"
+                                            },
+                                            "rating": "RATING_GOOD"
+                                        }
+                                    },
+                                    {
+                                        "category": {
+                                            "id": 29,
+                                            "abbreviation": "TD",
+                                            "nameSingular": "Offensive + Special Teams TD",
+                                            "namePlural": "Offensive + Special Teams TDs"
+                                        },
+                                        "rank": {
+                                            "rank": 32,
+                                            "mean": {
+                                                "value": 1.875,
+                                                "formatted": "1.9"
+                                            },
+                                            "rating": "RATING_VERY_GOOD"
+                                        }
+                                    }
+                                ],
+                                "defaultPoints": {
+                                    "rank": 32,
+                                    "mean": {
+                                        "value": 13.626562,
+                                        "formatted": "13.6"
+                                    },
+                                    "rating": "RATING_VERY_GOOD"
+                                }
+                            }
+                        }
+                    ],
+                    "viewingActualStats": [
+                        {
+                            "category": {
+                                "id": 175,
+                                "abbreviation": "Rec",
+                                "nameSingular": "Target % Caught",
+                                "namePlural": "Target % Caught"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 42,
+                                "abbreviation": "Yd",
+                                "nameSingular": "Receiving Yard",
+                                "namePlural": "Receiving Yards"
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 26,
+                                "abbreviation": "Fum",
+                                "nameSingular": "Fumble",
+                                "namePlural": "Fumbles",
+                                "lowerIsBetter": true
+                            }
+                        },
+                        {
+                            "category": {
+                                "id": 29,
+                                "abbreviation": "TD",
+                                "nameSingular": "Offensive + Special Teams TD",
+                                "namePlural": "Offensive + Special Teams TDs"
+                            }
+                        }
+                    ],
+                    "transactionStatus": {
+                        "locked": {
+
+                        },
+                        "isLineupStatusLocked": true
+                    },
+                    "requestedGamesPeriod": {
+                        "ordinal": 1,
+                        "startEpochMilli": "1631008800000"
+                    },
+                    "viewingFormat": "TOTAL",
+                    "viewingRange": {
+                        "low": -1,
+                        "high": -2
+                    },
+                    "owner": {
+                        "id": 1373475,
+                        "name": "Winterfell Dire Wolves",
+                        "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                        "initials": "WD"
+                    },
+                    "displayGroup": "RECEIVER",
+                    "rankDraft": {
+                        "ordinal": 135,
+                        "positions": [
+                            {
+                                "position": {
+                                    "label": "WR",
+                                    "group": "START",
+                                    "eligibility": [
+                                        "WR"
+                                    ],
+                                    "colors": [
+                                        "DRAFT_BOARD_BLUE"
+                                    ]
+                                },
+                                "ordinal": 51,
+                                "formatted": "WR51",
+                                "rating": "RATING_VERY_BAD"
+                            }
+                        ],
+                        "season": 2021
+                    },
+                    "lastX": [
+                        {
+                            "duration": 1
+                        },
+                        {
+                            "duration": 3
+                        },
+                        {
+                            "duration": 5
+                        }
+                    ],
+                    "isKeeper": true
+                },
+                "team": {
+                    "id": 1373475,
+                    "name": "Winterfell Dire Wolves",
+                    "logoUrl": "https://s3.amazonaws.com/fleaflicker/t1373475_0_150x150.jpg",
+                    "initials": "WD"
+                },
+                "draftedAtSlot": {
+                    "round": 1,
+                    "slot": 11,
+                    "overall": 11
+                }
+            }
+        }
+    ],
+    "resultTotal": 432
+}
