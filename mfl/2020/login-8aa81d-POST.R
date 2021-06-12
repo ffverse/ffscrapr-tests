@@ -1,0 +1,25 @@
+structure(list(url = "mfl/2020/login", status_code = 200L, headers = structure(list(
+    date = "Sat, 12 Jun 2021 13:39:23 GMT", server = "Apache/2.4.18 (Unix) mod_apreq2-20090110/2.8.0 mod_perl/2.0.9 Perl/v5.10.1", 
+    vary = "Accept-Encoding", `content-encoding` = "gzip", `content-length` = "127", 
+    `content-type` = "text/html; charset=utf-8", `set-cookie` = "MFL_USER_ID=bh1s2MuUvrXmhFT4fBCBI21QQORzzHT%2F%2Bw%3D%3D; domain=.myfantasyleague.com; path=/", 
+    `set-cookie` = "MFL_PW_SEQ=aB9q2MqQseiu3wO4; domain=.myfantasyleague.com; path=/; expires=Mon, 12-Jul-2021 13:39:23 GMT", 
+    targethost = "www74"), class = c("insensitive", "list")), 
+    all_headers = list(list(status = 200L, version = "HTTP/1.1", 
+        headers = structure(list(date = "Sat, 12 Jun 2021 13:39:23 GMT", 
+            server = "Apache/2.4.18 (Unix) mod_apreq2-20090110/2.8.0 mod_perl/2.0.9 Perl/v5.10.1", 
+            vary = "Accept-Encoding", `content-encoding` = "gzip", 
+            `content-length` = "127", `content-type` = "text/html; charset=utf-8", 
+            `set-cookie` = "MFL_USER_ID=bh1s2MuUvrXmhFT4fBCBI21QQORzzHT%2F%2Bw%3D%3D; domain=.myfantasyleague.com; path=/", 
+            `set-cookie` = "MFL_PW_SEQ=aB9q2MqQseiu3wO4; domain=.myfantasyleague.com; path=/; expires=Mon, 12-Jul-2021 13:39:23 GMT", 
+            targethost = "www74"), class = c("insensitive", "list"
+        )))), cookies = structure(list(domain = c(".myfantasyleague.com", 
+    ".myfantasyleague.com"), flag = c(TRUE, TRUE), path = c("/", 
+    "/"), secure = c(FALSE, FALSE), expiration = structure(c(Inf, 
+    1626097163), class = c("POSIXct", "POSIXt")), name = c("MFL_USER_ID", 
+    "MFL_PW_SEQ"), value = c("bh1s2MuUvrXmhFT4fBCBI21QQORzzHT%2F%2Bw%3D%3D", 
+    "aB9q2MqQseiu3wO4")), row.names = c(NA, -2L), class = "data.frame"), 
+    content = charToRaw("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n\n<status MFL_USER_ID=\"bh1s2MuUvrXmhFT4fBCBI21QQORzzHT/+w==\">OK</status>\n"), 
+    date = structure(1623505163, class = c("POSIXct", "POSIXt"
+    ), tzone = "GMT"), times = c(redirect = 0, namelookup = 2.8e-05, 
+    connect = 2.8e-05, pretransfer = 8.1e-05, starttransfer = 0.144136, 
+    total = 0.144259)), class = "response")
