@@ -1,0 +1,210 @@
+{
+    "league": {
+        "endWeek": "17",
+        "playerLimitUnit": "LEAGUE",
+        "nflPoolEndWeek": "17",
+        "survivorPoolStartWeek": "1",
+        "survivorPool": "Yes",
+        "id": "54040",
+        "standingsSort": "PCT,PTS,",
+        "lockout": "No",
+        "rosterSize": "25",
+        "baseURL": "https://www47.myfantasyleague.com",
+        "nflPoolStartWeek": "1",
+        "bbidConditional": "No",
+        "usesContractYear": "0",
+        "maxWaiverRounds": "8",
+        "bbidIncrement": "1",
+        "nflPoolType": "Confidence",
+        "taxiSquad": "3",
+        "rostersPerPlayer": "1",
+        "draftTimer": "ON",
+        "name": "The Super Smash Bros Dynasty League",
+        "history": {
+            "league": [
+                {
+                    "url": "https://www47.myfantasyleague.com/2019/home/54040",
+                    "year": "2019"
+                },
+                {
+                    "url": "https://www47.myfantasyleague.com/2018/home/54040",
+                    "year": "2018"
+                },
+                {
+                    "url": "https://www61.myfantasyleague.com/2020/home/54040",
+                    "year": "2020"
+                }
+            ]
+        },
+        "injuredReserve": "3",
+        "draftPlayerPool": "Rookie",
+        "currentWaiverType": "BBID_FCFS",
+        "survivorPoolEndWeek": "17",
+        "starters": {
+            "position": [
+                {
+                    "name": "QB",
+                    "limit": "1"
+                },
+                {
+                    "name": "RB",
+                    "limit": "1-6"
+                },
+                {
+                    "name": "WR",
+                    "limit": "1-6"
+                },
+                {
+                    "name": "TE",
+                    "limit": "1-6"
+                }
+            ],
+            "count": "9"
+        },
+        "bbidSeasonLimit": "200",
+        "loadRosters": "email_draft",
+        "bestLineup": "No",
+        "precision": "2",
+        "mobileAlerts": "",
+        "draft_kind": "email",
+        "draftLimitHours": "12:00",
+        "lastRegularSeasonWeek": "16",
+        "h2h": "YES",
+        "startWeek": "1",
+        "defaultTradeExpirationDays": "7",
+        "franchises": {
+            "count": "14",
+            "franchise": [
+                {
+                    "icon": "https://i.imgur.com/purgTuY.png",
+                    "id": "0001",
+                    "bbidAvailableBalance": "32.00",
+                    "abbrev": "PIKA",
+                    "logo": "https://i.imgur.com/purgTuY.png",
+                    "waiverSortOrder": "2",
+                    "name": "Team Pikachu"
+                },
+                {
+                    "name": "Team Simon Belmont",
+                    "waiverSortOrder": "4",
+                    "logo": "https://i.imgur.com/spJaesT.png",
+                    "abbrev": "SIMN",
+                    "bbidAvailableBalance": "70.00",
+                    "id": "0002",
+                    "icon": "https://i.imgur.com/spJaesT.png"
+                },
+                {
+                    "icon": "https://i.imgur.com/UW6ES3y.png",
+                    "bbidAvailableBalance": "5.00",
+                    "id": "0003",
+                    "abbrev": "CFCN",
+                    "logo": "https://i.imgur.com/UW6ES3y.png",
+                    "name": "Team Captain Falcon",
+                    "waiverSortOrder": "13"
+                },
+                {
+                    "logo": "https://i.imgur.com/Z51OK27.png",
+                    "abbrev": "ICE",
+                    "waiverSortOrder": "14",
+                    "name": "Team Ice Climbers",
+                    "icon": "https://i.imgur.com/Z51OK27.png",
+                    "id": "0004",
+                    "bbidAvailableBalance": "0.00"
+                },
+                {
+                    "bbidAvailableBalance": "117.00",
+                    "id": "0005",
+                    "icon": "https://i.imgur.com/wENaJKg.png",
+                    "waiverSortOrder": "1",
+                    "name": "Team Dr. Mario",
+                    "logo": "https://i.imgur.com/wENaJKg.png",
+                    "abbrev": "DRM"
+                },
+                {
+                    "logo": "https://i.imgur.com/5LnPtDi.png",
+                    "abbrev": "KDDD",
+                    "name": "Team King Dedede",
+                    "waiverSortOrder": "7",
+                    "icon": "https://i.imgur.com/5LnPtDi.png",
+                    "id": "0006",
+                    "bbidAvailableBalance": "0.00"
+                },
+                {
+                    "waiverSortOrder": "6",
+                    "name": "Team Kirby",
+                    "abbrev": "KRBY",
+                    "logo": "https://i.imgur.com/eift9jP.png",
+                    "bbidAvailableBalance": "0.00",
+                    "id": "0007",
+                    "icon": "https://i.imgur.com/eift9jP.png"
+                },
+                {
+                    "waiverSortOrder": "12",
+                    "name": "Team Fox",
+                    "logo": "https://i.imgur.com/AMtyw0W.png",
+                    "abbrev": "FOX",
+                    "bbidAvailableBalance": "0.00",
+                    "id": "0008",
+                    "icon": "https://i.imgur.com/AMtyw0W.png"
+                },
+                {
+                    "bbidAvailableBalance": "14.00",
+                    "id": "0009",
+                    "icon": "https://i.imgur.com/0zprlfO.png",
+                    "waiverSortOrder": "11",
+                    "name": "Team Link",
+                    "abbrev": "LINK",
+                    "logo": "https://i.imgur.com/0zprlfO.png"
+                },
+                {
+                    "bbidAvailableBalance": "0.00",
+                    "id": "0010",
+                    "icon": "https://i.imgur.com/RvsGTLu.png",
+                    "name": "Team Yoshi",
+                    "waiverSortOrder": "3",
+                    "abbrev": "YSHI",
+                    "logo": "https://i.imgur.com/RvsGTLu.png"
+                },
+                {
+                    "icon": "https://i.imgur.com/zDt3q5J.png",
+                    "bbidAvailableBalance": "18.00",
+                    "id": "0011",
+                    "logo": "https://i.imgur.com/zDt3q5J.png",
+                    "abbrev": "DDY",
+                    "waiverSortOrder": "5",
+                    "name": "Team Diddy Kong"
+                },
+                {
+                    "abbrev": "MEW2",
+                    "logo": "https://i.imgur.com/GHB1pVY.png",
+                    "waiverSortOrder": "8",
+                    "name": "Team Mewtwo",
+                    "icon": "https://i.imgur.com/GHB1pVY.png",
+                    "id": "0012",
+                    "bbidAvailableBalance": "0.00"
+                },
+                {
+                    "icon": "https://i.imgur.com/lp2XsQE.png",
+                    "logo": "https://i.imgur.com/lp2XsQE.png",
+                    "id": "0013",
+                    "waiverSortOrder": "10",
+                    "bbidAvailableBalance": "195.00",
+                    "name": "Team Ness"
+                },
+                {
+                    "logo": "https://i.imgur.com/AQJ99hs.png",
+                    "abbrev": "LUIG",
+                    "name": "Team Luigi",
+                    "waiverSortOrder": "9",
+                    "icon": "https://i.imgur.com/AQJ99hs.png",
+                    "id": "0014",
+                    "bbidAvailableBalance": "0.00"
+                }
+            ]
+        },
+        "bbidTiebreaker": "TURN",
+        "usesSalaries": "0"
+    },
+    "version": "1.0",
+    "encoding": "utf-8"
+}

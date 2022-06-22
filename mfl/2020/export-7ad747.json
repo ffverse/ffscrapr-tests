@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "leagues": {
+        "league": {
+            "franchise_id": "0001",
+            "url": "https://www70.myfantasyleague.com/2020/home/21499",
+            "name": "testestest",
+            "franchise_name": "Franchise 1",
+            "league_id": "21499"
+        }
+    },
+    "encoding": "utf-8"
+}

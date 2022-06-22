@@ -1,0 +1,734 @@
+{
+    "draftResults": {
+        "draftUnit": {
+            "round1DraftOrder": "0014,0003,0008,",
+            "unit": "LEAGUE",
+            "draftType": "SAME",
+            "static_url": "https://www47.myfantasyleague.com/fflnetdynamic2020/54040_LEAGUE_draft_results.xml",
+            "draftPick": [
+                {
+                    "franchise": "0014",
+                    "pick": "01",
+                    "comments": "",
+                    "round": "01",
+                    "timestamp": "1612810342",
+                    "player": "11244"
+                },
+                {
+                    "player": "14073",
+                    "round": "01",
+                    "timestamp": "1612812007",
+                    "comments": "",
+                    "pick": "02",
+                    "franchise": "0003"
+                },
+                {
+                    "timestamp": "1612814476",
+                    "round": "01",
+                    "player": "11678",
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "03"
+                },
+                {
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0008",
+                    "player": "13131",
+                    "round": "02",
+                    "timestamp": "1612814490"
+                },
+                {
+                    "comments": "",
+                    "pick": "02",
+                    "franchise": "0003",
+                    "player": "11671",
+                    "timestamp": "1612815150",
+                    "round": "02"
+                },
+                {
+                    "franchise": "0012",
+                    "pick": "03",
+                    "comments": "[Pick traded from Team Luigi.] ",
+                    "timestamp": "1612839339",
+                    "round": "02",
+                    "player": "13593"
+                },
+                {
+                    "franchise": "0014",
+                    "pick": "01",
+                    "comments": "",
+                    "timestamp": "1612840190",
+                    "round": "03",
+                    "player": "0829"
+                },
+                {
+                    "comments": "",
+                    "pick": "02",
+                    "franchise": "0003",
+                    "player": "11222",
+                    "timestamp": "1612840364",
+                    "round": "03"
+                },
+                {
+                    "player": "14208",
+                    "timestamp": "1612840970",
+                    "round": "03",
+                    "pick": "03",
+                    "comments": "",
+                    "franchise": "0008"
+                },
+                {
+                    "round": "04",
+                    "timestamp": "1612840981",
+                    "player": "13156",
+                    "franchise": "0008",
+                    "pick": "01",
+                    "comments": ""
+                },
+                {
+                    "round": "04",
+                    "timestamp": "1612841308",
+                    "player": "13630",
+                    "franchise": "0007",
+                    "pick": "02",
+                    "comments": "[Pick traded from Team Donkey Kong.] "
+                },
+                {
+                    "player": "12650",
+                    "round": "04",
+                    "timestamp": "1612882868",
+                    "comments": "",
+                    "pick": "03",
+                    "franchise": "0014"
+                },
+                {
+                    "franchise": "0014",
+                    "comments": "",
+                    "pick": "01",
+                    "timestamp": "1612882893",
+                    "round": "05",
+                    "player": "12647"
+                },
+                {
+                    "round": "05",
+                    "timestamp": "1612884640",
+                    "player": "12620",
+                    "franchise": "0003",
+                    "comments": "",
+                    "pick": "02"
+                },
+                {
+                    "player": "0839",
+                    "timestamp": "1612885774",
+                    "round": "05",
+                    "comments": "",
+                    "pick": "03",
+                    "franchise": "0008"
+                },
+                {
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0008",
+                    "player": "0833",
+                    "round": "06",
+                    "timestamp": "1612885781"
+                },
+                {
+                    "franchise": "0007",
+                    "pick": "02",
+                    "comments": "[Pick traded from Team Donkey Kong.] ",
+                    "timestamp": "1612885879",
+                    "round": "06",
+                    "player": "11228"
+                },
+                {
+                    "franchise": "0008",
+                    "pick": "03",
+                    "comments": "[Pick traded from Team Luigi.] ",
+                    "timestamp": "1612911324",
+                    "round": "06",
+                    "player": "10703"
+                },
+                {
+                    "player": "12187",
+                    "timestamp": "1612912225",
+                    "round": "07",
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0014"
+                },
+                {
+                    "franchise": "0003",
+                    "pick": "02",
+                    "comments": "",
+                    "round": "07",
+                    "timestamp": "1612913742",
+                    "player": "13364"
+                },
+                {
+                    "player": "13646",
+                    "round": "07",
+                    "timestamp": "1612919017",
+                    "pick": "03",
+                    "comments": "[Pick traded from Team Bowser.] ",
+                    "franchise": "0014"
+                },
+                {
+                    "player": "14141",
+                    "timestamp": "1612920225",
+                    "round": "08",
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0008"
+                },
+                {
+                    "franchise": "0003",
+                    "pick": "02",
+                    "comments": "",
+                    "round": "08",
+                    "timestamp": "1612920888",
+                    "player": "13633"
+                },
+                {
+                    "timestamp": "1612926960",
+                    "round": "08",
+                    "player": "13590",
+                    "franchise": "0005",
+                    "comments": "[Pick traded from Team Luigi.] ",
+                    "pick": "03"
+                },
+                {
+                    "pick": "01",
+                    "comments": "",
+                    "franchise": "0014",
+                    "player": "0830",
+                    "timestamp": "1612932483",
+                    "round": "09"
+                },
+                {
+                    "player": "12678",
+                    "round": "09",
+                    "timestamp": "1612958865",
+                    "pick": "02",
+                    "comments": "",
+                    "franchise": "0003"
+                },
+                {
+                    "pick": "03",
+                    "comments": "[Pick traded from Team Bowser.] ",
+                    "franchise": "0014",
+                    "player": "14081",
+                    "timestamp": "1612968259",
+                    "round": "09"
+                },
+                {
+                    "player": "0840",
+                    "round": "10",
+                    "timestamp": "1612968840",
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0008"
+                },
+                {
+                    "player": "14778",
+                    "timestamp": "1612974588",
+                    "round": "10",
+                    "pick": "02",
+                    "comments": "",
+                    "franchise": "0003"
+                },
+                {
+                    "player": "12930",
+                    "timestamp": "1612976653",
+                    "round": "10",
+                    "pick": "03",
+                    "comments": "",
+                    "franchise": "0014"
+                },
+                {
+                    "comments": "[Pick traded from Team Luigi.] ",
+                    "pick": "01",
+                    "franchise": "0001",
+                    "player": "14798",
+                    "timestamp": "1612978985",
+                    "round": "11"
+                },
+                {
+                    "player": "12184",
+                    "timestamp": "1612979406",
+                    "round": "11",
+                    "pick": "02",
+                    "comments": "",
+                    "franchise": "0003"
+                },
+                {
+                    "comments": "",
+                    "pick": "03",
+                    "franchise": "0008",
+                    "player": "12611",
+                    "round": "11",
+                    "timestamp": "1612979861"
+                },
+                {
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "01",
+                    "round": "12",
+                    "timestamp": "1612979870",
+                    "player": "12151"
+                },
+                {
+                    "timestamp": "1612980525",
+                    "round": "12",
+                    "player": "0834",
+                    "franchise": "0003",
+                    "comments": "",
+                    "pick": "02"
+                },
+                {
+                    "round": "12",
+                    "timestamp": "1612986185",
+                    "player": "13622",
+                    "franchise": "0014",
+                    "comments": "",
+                    "pick": "03"
+                },
+                {
+                    "player": "14223",
+                    "round": "13",
+                    "timestamp": "1612986238",
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0014"
+                },
+                {
+                    "franchise": "0003",
+                    "comments": "",
+                    "pick": "02",
+                    "round": "13",
+                    "timestamp": "1612988249",
+                    "player": "13614"
+                },
+                {
+                    "franchise": "0008",
+                    "pick": "03",
+                    "comments": "",
+                    "timestamp": "1612988567",
+                    "round": "13",
+                    "player": "0831"
+                },
+                {
+                    "franchise": "0008",
+                    "pick": "01",
+                    "comments": "",
+                    "timestamp": "1612988579",
+                    "round": "14",
+                    "player": "14864"
+                },
+                {
+                    "franchise": "0003",
+                    "pick": "02",
+                    "comments": "",
+                    "round": "14",
+                    "timestamp": "1612988975",
+                    "player": "13631"
+                },
+                {
+                    "player": "13234",
+                    "round": "14",
+                    "timestamp": "1613002678",
+                    "comments": "",
+                    "pick": "03",
+                    "franchise": "0014"
+                },
+                {
+                    "timestamp": "1613002687",
+                    "round": "15",
+                    "player": "10973",
+                    "franchise": "0014",
+                    "comments": "",
+                    "pick": "01"
+                },
+                {
+                    "round": "15",
+                    "timestamp": "1613002993",
+                    "player": "0841",
+                    "franchise": "0003",
+                    "comments": "",
+                    "pick": "02"
+                },
+                {
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "03",
+                    "timestamp": "1613003873",
+                    "round": "15",
+                    "player": "14875"
+                },
+                {
+                    "timestamp": "1613003881",
+                    "round": "16",
+                    "player": "13608",
+                    "franchise": "0008",
+                    "pick": "01",
+                    "comments": ""
+                },
+                {
+                    "comments": "",
+                    "pick": "02",
+                    "franchise": "0003",
+                    "player": "13809",
+                    "round": "16",
+                    "timestamp": "1613004137"
+                },
+                {
+                    "franchise": "0014",
+                    "pick": "03",
+                    "comments": "",
+                    "timestamp": "1613009502",
+                    "round": "16",
+                    "player": "13236"
+                },
+                {
+                    "franchise": "0014",
+                    "pick": "01",
+                    "comments": "",
+                    "timestamp": "1613009522",
+                    "round": "17",
+                    "player": "14853"
+                },
+                {
+                    "franchise": "0003",
+                    "pick": "02",
+                    "comments": "",
+                    "round": "17",
+                    "timestamp": "1613009641",
+                    "player": "14146"
+                },
+                {
+                    "timestamp": "1613012269",
+                    "round": "17",
+                    "player": "0835",
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "03"
+                },
+                {
+                    "player": "0838",
+                    "round": "18",
+                    "timestamp": "1613012273",
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0008"
+                },
+                {
+                    "player": "14821",
+                    "round": "18",
+                    "timestamp": "1613012961",
+                    "comments": "",
+                    "pick": "02",
+                    "franchise": "0003"
+                },
+                {
+                    "timestamp": "1613015081",
+                    "round": "18",
+                    "player": "9902",
+                    "franchise": "0012",
+                    "comments": "[Pick traded from Team Luigi.] ",
+                    "pick": "03"
+                },
+                {
+                    "player": "12150",
+                    "timestamp": "1613015664",
+                    "round": "19",
+                    "pick": "01",
+                    "comments": "[Pick traded from Team Luigi.] ",
+                    "franchise": "0012"
+                },
+                {
+                    "player": "11886",
+                    "timestamp": "1613016209",
+                    "round": "19",
+                    "comments": "",
+                    "pick": "02",
+                    "franchise": "0003"
+                },
+                {
+                    "round": "19",
+                    "timestamp": "1613017229",
+                    "player": "0832",
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "03"
+                },
+                {
+                    "player": "10313",
+                    "round": "20",
+                    "timestamp": "1613017238",
+                    "pick": "01",
+                    "comments": "",
+                    "franchise": "0008"
+                },
+                {
+                    "franchise": "0003",
+                    "comments": "",
+                    "pick": "02",
+                    "round": "20",
+                    "timestamp": "1613017870",
+                    "player": "11192"
+                },
+                {
+                    "player": "10261",
+                    "timestamp": "1613057326",
+                    "round": "20",
+                    "pick": "03",
+                    "comments": "",
+                    "franchise": "0014"
+                },
+                {
+                    "timestamp": "1613057337",
+                    "round": "21",
+                    "player": "7401",
+                    "franchise": "0014",
+                    "comments": "",
+                    "pick": "01"
+                },
+                {
+                    "player": "11250",
+                    "timestamp": "1613059748",
+                    "round": "21",
+                    "pick": "02",
+                    "comments": "",
+                    "franchise": "0003"
+                },
+                {
+                    "franchise": "0008",
+                    "pick": "03",
+                    "comments": "",
+                    "round": "21",
+                    "timestamp": "1613059862",
+                    "player": "13814"
+                },
+                {
+                    "pick": "01",
+                    "comments": "",
+                    "franchise": "0008",
+                    "player": "14801",
+                    "round": "22",
+                    "timestamp": "1613059972"
+                },
+                {
+                    "pick": "02",
+                    "comments": "",
+                    "franchise": "0003",
+                    "player": "12205",
+                    "round": "22",
+                    "timestamp": "1613060305"
+                },
+                {
+                    "timestamp": "1613061322",
+                    "round": "22",
+                    "player": "12164",
+                    "franchise": "0014",
+                    "comments": "",
+                    "pick": "03"
+                },
+                {
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0014",
+                    "player": "12386",
+                    "round": "23",
+                    "timestamp": "1613061335"
+                },
+                {
+                    "franchise": "0003",
+                    "comments": "",
+                    "pick": "02",
+                    "round": "23",
+                    "timestamp": "1613061720",
+                    "player": "12476"
+                },
+                {
+                    "player": "14558",
+                    "round": "23",
+                    "timestamp": "1613061977",
+                    "comments": "",
+                    "pick": "03",
+                    "franchise": "0008"
+                },
+                {
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "01",
+                    "round": "24",
+                    "timestamp": "1613061998",
+                    "player": "14862"
+                },
+                {
+                    "franchise": "0003",
+                    "pick": "02",
+                    "comments": "",
+                    "round": "24",
+                    "timestamp": "1613062603",
+                    "player": "14123"
+                },
+                {
+                    "comments": "",
+                    "pick": "03",
+                    "franchise": "0014",
+                    "player": "10273",
+                    "round": "24",
+                    "timestamp": "1613063415"
+                },
+                {
+                    "round": "25",
+                    "timestamp": "1613063426",
+                    "player": "14209",
+                    "franchise": "0014",
+                    "comments": "",
+                    "pick": "01"
+                },
+                {
+                    "comments": "",
+                    "pick": "02",
+                    "franchise": "0003",
+                    "player": "0837",
+                    "timestamp": "1613064801",
+                    "round": "25"
+                },
+                {
+                    "timestamp": "1613067900",
+                    "round": "25",
+                    "player": "0842",
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "03"
+                },
+                {
+                    "player": "0836",
+                    "round": "26",
+                    "timestamp": "1613067914",
+                    "pick": "01",
+                    "comments": "",
+                    "franchise": "0008"
+                },
+                {
+                    "comments": "",
+                    "pick": "02",
+                    "franchise": "0003",
+                    "player": "13968",
+                    "round": "26",
+                    "timestamp": "1613068422"
+                },
+                {
+                    "franchise": "0014",
+                    "pick": "03",
+                    "comments": "",
+                    "round": "26",
+                    "timestamp": "1613075851",
+                    "player": "11890"
+                },
+                {
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0014",
+                    "player": "11672",
+                    "round": "27",
+                    "timestamp": "1613075861"
+                },
+                {
+                    "player": "9474",
+                    "timestamp": "1613079807",
+                    "round": "27",
+                    "pick": "02",
+                    "comments": "",
+                    "franchise": "0003"
+                },
+                {
+                    "player": "13768",
+                    "round": "27",
+                    "timestamp": "1613080049",
+                    "pick": "03",
+                    "comments": "",
+                    "franchise": "0008"
+                },
+                {
+                    "player": "11516",
+                    "timestamp": "1613080056",
+                    "round": "28",
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0008"
+                },
+                {
+                    "round": "28",
+                    "timestamp": "1613080674",
+                    "player": "14613",
+                    "franchise": "0003",
+                    "comments": "",
+                    "pick": "02"
+                },
+                {
+                    "timestamp": "1613082295",
+                    "round": "28",
+                    "player": "9925",
+                    "franchise": "0014",
+                    "pick": "03",
+                    "comments": ""
+                },
+                {
+                    "comments": "",
+                    "pick": "01",
+                    "franchise": "0014",
+                    "player": "9075",
+                    "timestamp": "1613082315",
+                    "round": "29"
+                },
+                {
+                    "round": "29",
+                    "timestamp": "1613083309",
+                    "player": "13776",
+                    "franchise": "0003",
+                    "comments": "",
+                    "pick": "02"
+                },
+                {
+                    "timestamp": "1613089061",
+                    "round": "29",
+                    "player": "13642",
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "03"
+                },
+                {
+                    "franchise": "0008",
+                    "comments": "",
+                    "pick": "01",
+                    "round": "30",
+                    "timestamp": "1613089098",
+                    "player": "12785"
+                },
+                {
+                    "timestamp": "1613090403",
+                    "round": "30",
+                    "player": "----",
+                    "franchise": "0003",
+                    "comments": "[Pick skipped By Commissioner] ",
+                    "pick": "02"
+                },
+                {
+                    "player": "13148",
+                    "timestamp": "1613098821",
+                    "round": "30",
+                    "comments": "[Pick traded from Team Luigi.] ",
+                    "pick": "03",
+                    "franchise": "0008"
+                }
+            ]
+        }
+    },
+    "encoding": "utf-8",
+    "version": "1.0"
+}
